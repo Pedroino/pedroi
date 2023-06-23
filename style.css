@@ -91,3 +91,22 @@ root{
     display: inline-block;
     margin-top: 16px;
     }
+    
+
+    .dispositivos-lista{
+        display: flex;
+        list-style-type: none;
+        margin:80x 0;
+        justify-content: center;
+
+    }
+    .dispositivos{
+        text-align: center;
+    }
+    dispositivos-titulo{
+        font-size: 48x;
+
+    }
+    .lista-item{
+        font-sizde: 32x;
+    }
